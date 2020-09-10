@@ -2,3 +2,12 @@ E:\Desktop\IMED\POO Avançado\CRUDCSharp\CRUDCSharp\obj\Debug\CRUDCSharp.csprojA
 E:\Desktop\IMED\POO Avançado\CRUDCSharp\CRUDCSharp\obj\Debug\CRUDCSharp.csproj.CoreCompileInputs.cache
 E:\Desktop\IMED\POO Avançado\CRUDCSharp\CRUDCSharp\obj\Debug\DB.dll
 E:\Desktop\IMED\POO Avançado\CRUDCSharp\CRUDCSharp\obj\Debug\DB.pdb
+E:\Documentos\Projetos\IMED\CRUDCSharp\CRUDCSharp\bin\Debug\DB.dll.config
+E:\Documentos\Projetos\IMED\CRUDCSharp\CRUDCSharp\bin\Debug\DB.dll
+E:\Documentos\Projetos\IMED\CRUDCSharp\CRUDCSharp\bin\Debug\DB.pdb
+E:\Documentos\Projetos\IMED\CRUDCSharp\CRUDCSharp\bin\Debug\Ionic.Zip.dll
+E:\Documentos\Projetos\IMED\CRUDCSharp\CRUDCSharp\obj\Debug\CRUDCSharp.csprojAssemblyReference.cache
+E:\Documentos\Projetos\IMED\CRUDCSharp\CRUDCSharp\obj\Debug\CRUDCSharp.csproj.CoreCompileInputs.cache
+E:\Documentos\Projetos\IMED\CRUDCSharp\CRUDCSharp\obj\Debug\CRUDCSharp.csproj.CopyComplete
+E:\Documentos\Projetos\IMED\CRUDCSharp\CRUDCSharp\obj\Debug\DB.dll
+E:\Documentos\Projetos\IMED\CRUDCSharp\CRUDCSharp\obj\Debug\DB.pdb
