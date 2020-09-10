@@ -1,0 +1,4 @@
+E:\Desktop\IMED\POO Avançado\CRUDCSharp\CRUDCSharp\obj\Debug\CRUDCSharp.csprojAssemblyReference.cache
+E:\Desktop\IMED\POO Avançado\CRUDCSharp\CRUDCSharp\obj\Debug\CRUDCSharp.csproj.CoreCompileInputs.cache
+E:\Desktop\IMED\POO Avançado\CRUDCSharp\CRUDCSharp\obj\Debug\DB.dll
+E:\Desktop\IMED\POO Avançado\CRUDCSharp\CRUDCSharp\obj\Debug\DB.pdb

@@ -1,0 +1,17 @@
+﻿<mui:ModernWindow x:Class="Interface.MainWindow"
+                  xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                  xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                  xmlns:mui="http://firstfloorsoftware.com/ModernUI"
+                  Title="mui" 
+                  Style="{StaticResource BlankWindow}" Loaded="ModernWindow_Loaded">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+           
+        </Grid.ColumnDefinitions>
+        <DataGrid x:Name="Linhas" SelectionMode="Single" SelectionChanged="set_linha_selecionada"></DataGrid>
+        <DataGrid Grid.Column="1" x:Name="Celulas"></DataGrid>
+    </Grid>
+</mui:ModernWindow>

@@ -1,0 +1,15 @@
+E:\Desktop\IMED\POO Avançado\CRUDCSharp\Interface\bin\Debug\Interface.exe
+E:\Desktop\IMED\POO Avançado\CRUDCSharp\Interface\bin\Debug\Interface.pdb
+E:\Desktop\IMED\POO Avançado\CRUDCSharp\Interface\bin\Debug\FirstFloor.ModernUI.dll
+E:\Desktop\IMED\POO Avançado\CRUDCSharp\Interface\bin\Debug\FirstFloor.ModernUI.xml
+E:\Desktop\IMED\POO Avançado\CRUDCSharp\Interface\obj\Debug\Interface.csprojAssemblyReference.cache
+E:\Desktop\IMED\POO Avançado\CRUDCSharp\Interface\obj\Debug\MainWindow.baml
+E:\Desktop\IMED\POO Avançado\CRUDCSharp\Interface\obj\Debug\App.baml
+E:\Desktop\IMED\POO Avançado\CRUDCSharp\Interface\obj\Debug\MainWindow.g.cs
+E:\Desktop\IMED\POO Avançado\CRUDCSharp\Interface\obj\Debug\App.g.cs
+E:\Desktop\IMED\POO Avançado\CRUDCSharp\Interface\obj\Debug\Interface_MarkupCompile.cache
+E:\Desktop\IMED\POO Avançado\CRUDCSharp\Interface\obj\Debug\Interface.g.resources
+E:\Desktop\IMED\POO Avançado\CRUDCSharp\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+E:\Desktop\IMED\POO Avançado\CRUDCSharp\Interface\obj\Debug\Interface.csproj.CopyComplete
+E:\Desktop\IMED\POO Avançado\CRUDCSharp\Interface\obj\Debug\Interface.exe
+E:\Desktop\IMED\POO Avançado\CRUDCSharp\Interface\obj\Debug\Interface.pdb
